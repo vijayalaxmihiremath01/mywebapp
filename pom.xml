@@ -4,7 +4,7 @@
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>mywebapp</artifactId>
   <packaging>war</packaging>
-  <version>3.4.0</version>
+  <version>3.8.7</version>
   <name>mywebapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
